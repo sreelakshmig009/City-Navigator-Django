@@ -135,6 +135,7 @@ Make sure you **respect ownership**:
 
 ## **Structure of the Django App**
 
+```
 city-navigator/               # Project root
 │
 ├── env/                      # Virtual environment (should be in .gitignore)
@@ -164,3 +165,4 @@ city-navigator/               # Project root
 ├── db.sqlite3               # SQLite database
 ├── manage.py                # Django CLI tool
 └── README.md                # Project documentation
+```
