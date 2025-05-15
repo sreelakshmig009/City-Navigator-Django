@@ -166,3 +166,7 @@ city-navigator/               # Project root
 ├── manage.py                # Django CLI tool
 └── README.md                # Project documentation
 ```
+![1](https://github.com/user-attachments/assets/a677ad12-1629-43d8-adac-10fdb5625d69)
+![2](https://github.com/user-attachments/assets/2a741838-87ae-4683-b863-9b1e46675bb5)
+
+
